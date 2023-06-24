@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ranadeep Kundu.
 - 👀 I’m interested in Python Projects.
-- 🌱 I’m currently learning Flask, React.js, Android Development, etc from Pirple.com
+- 🌱 I’m currently working in the VFX industry as a Technical Artist
 - 💞️ I’m looking to collaborate on Projects where I will get to learn something new.
-- 📫 DM me @iamrdk on IG
+- 📫 DM me @iamrdk on LinkedIn
