@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Ranadeep Kundu.
-- 👀 I’m interested in projects related to Python or C++
-- Development in Houdini, Katana or Maya would be great too.
+- 👀 I’m interested in projects related to Python or C++.
+- 😶‍🌫️ Development with their respective APIs in Houdini, Katana or Maya.
+- 🫡 Fixing bugs, implementing new features/ workflows and learning.
